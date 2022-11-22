@@ -1,0 +1,62 @@
+.remove-note,
+.remove-note:hover {
+    float: left;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+.button {
+    padding: 7px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #0010f7;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 3px #999;
+  }
+  
+  .button:hover {background-color: #00ff08;
+    color: #000000
+}
+  
+  .button:active {
+    background-color: #0010f7;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  #note{
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+  .button2 {
+    padding: 7px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #0010f7;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 3px #999;
+  }
+  
+  .button2:hover {background-color: #ff0000;
+    color: #ffffff
+}
+  
+  .button2:active {
+    background-color: #0010f7;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
