@@ -147,9 +147,4 @@ function removeAllNotes(){
     localStorage.clear();
 }
 
-
-
-
-//localStorage.clear();
-
 //idea: adding recycle bin - seperated note for every 12 months of the year
