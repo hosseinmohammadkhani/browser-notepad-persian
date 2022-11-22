@@ -151,7 +151,5 @@ function removeAllNotes(){
 
 
 //localStorage.clear();
-//65+54+35 min - 28 mordad
-//1:49 + 22min - 29 mordad
-//12:26
+
 //idea: adding recycle bin - seperated note for every 12 months of the year
